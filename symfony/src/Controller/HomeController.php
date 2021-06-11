@@ -18,8 +18,4 @@ class HomeController extends AbstractController
         ]);
     }
     
-    public function name() {
-        
-        return ;
-    }
 }
